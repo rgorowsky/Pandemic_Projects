@@ -1,4 +1,4 @@
-var chart = LightweightCharts.createChart(document.body, {
+ var chart = LightweightCharts.createChart(document.body, {
 	width: 600,
   height: 300,
 	layout: {
